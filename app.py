@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="RIGI — Normativa y Consultas", page_icon="🏛️")
+
 # ── Página: RIGI — Normativa y Consultas ──────────────────────────────────────
 
 NOTEBOOK_URL = "https://notebooklm.google.com/notebook/39713be2-d428-4a3a-bb3c-744323fb690e"
